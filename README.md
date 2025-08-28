@@ -1,1 +1,4 @@
 # Scrafty
+![[2025-08-19-210921_hyprshot.png]]
+
+Scrafty is a versatile and efficient text web scraping project built using Python, designed to streamline the process of extracting textual data from websites. Leveraging powerful libraries like `BeautifulSoup` for parsing HTML and Requests for handling HTTP connections, Scrafty provides a user-friendly framework to target, collect, and clean specific text content such as articles, comments, or product descriptions. The core aim of the project is to abstract away the complexities of web scraping, allowing users to quickly gather structured textual information while filtering out unnecessary HTML tags and scripts. This makes Scrafty an ideal tool for developers, data scientists, and researchers who need clean, ready-to-use text for applications ranging from data analysis and sentiment analysis to building datasets for `natural language processing models`.
